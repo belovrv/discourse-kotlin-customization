@@ -1,4 +1,4 @@
-discourse-twittercommunity
+discourse-kotlin-customization
 ==========================
 
-A plugin to add customizations to twittercommunity.com.
+A plugin to add customizations to discuss.kotlinlang.org
